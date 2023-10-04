@@ -10,3 +10,4 @@ Currently supported utils:
 - `pick` - provides new object that picks only specific fields of source object
 - `pickBy` -  provides new object that picks only specific fields of source object depending on predicate function filter
 - `camelize` - simple camel case
+- `chunk` - splits array into chunks
